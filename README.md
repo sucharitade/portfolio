@@ -26,7 +26,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in different 
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-|📦 [SQlite Inventory System](#linkcomingsoon) | DBeaver, SQLite | Built a retail inventory and billing database using SQLite and DBeaver. Designed normalized tables, added sample data, and implemented views and triggers to track stock levels and store transaction records. |
+|📦 [SQlite Inventory System](https://github.com/sucharitade/sqlite-inventory-system) | DBeaver, SQLite | Built a retail inventory and billing database using SQLite and DBeaver. Designed normalized tables, added sample data, and implemented views and triggers to track stock levels and store transaction records. |
 ***
 
 # Python
